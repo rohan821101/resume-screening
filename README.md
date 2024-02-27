@@ -17,6 +17,7 @@ Skills, experience, and other relevant information are extracted from the resume
 Job Description Parsing:
 
 Job descriptions are parsed to identify key requirements such as skills, experience level, and educational qualifications.
+
 Matching and Ranking:
 
 Extracted information from resumes is compared against the job description to calculate relevance scores for each candidate.
